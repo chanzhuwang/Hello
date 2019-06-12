@@ -1,4 +1,4 @@
-package yhx;
+
 
 public class Hello {
 
